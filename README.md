@@ -26,7 +26,7 @@ Welcome to my GitHub profile! I'm a passionate programmer with expertise in **C*
 
 ## 🚀 Projects
 
-### 1. [Philosophers (philo)](https://github.com/ybahij/philosophers)
+### 1. [Philosophers (philo)]([https://github.com/ybahij/philosophers](https://github.com/ybahij/philo2))
 - **Description**: A simulation of the classic Dining Philosophers problem, implemented in C using threads and mutexes.
 - **Features**:
   - Multithreading to simulate philosophers as separate threads.
