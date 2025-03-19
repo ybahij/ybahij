@@ -26,7 +26,7 @@ Welcome to my GitHub profile! I'm a passionate programmer with expertise in **C*
 
 ## 🚀 Projects
 
-### 1. [Philosophers (philo)]([https://github.com/ybahij/philosophers](https://github.com/ybahij/philo2))
+### 1. [Philosophers (philo)](https://github.com/ybahij/philo2)
 - **Description**: A simulation of the classic Dining Philosophers problem, implemented in C using threads and mutexes.
 - **Features**:
   - Multithreading to simulate philosophers as separate threads.
@@ -35,7 +35,7 @@ Welcome to my GitHub profile! I'm a passionate programmer with expertise in **C*
   - Real-time monitoring of philosopher states (thinking, eating, sleeping).
 - **Technologies**: C, Multithreading, Mutexes
 
-### 2. [Minishell](https://github.com/ybahij/minishell)
+### 2. [Minishell](https://github.com/ybahij/mininshell)
 - **Description**: A minimalistic shell implementation in C, mimicking basic functionalities of a Unix shell.
 - **Features**:
   - Command execution (e.g., `ls`, `cd`, `echo`).
