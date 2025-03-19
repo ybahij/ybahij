@@ -82,7 +82,7 @@ Welcome to my GitHub profile! I'm a passionate programmer with expertise in **C*
 ## 📫 Let's Connect!
 
 - [GitHub](https://github.com/ybahij)
-- [LinkedIn]([https://www.linkedin.com/in/yourprofile](https://www.linkedin.com/in/youssef-bahij-812b73197/))
+- [LinkedIn](https://www.linkedin.com/in/youssef-bahij-812b73197)
 - [Email](mailto:youssefbahij2000@gmail.com)
 
 ---
