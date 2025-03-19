@@ -68,9 +68,9 @@ Welcome to my GitHub profile! I'm a passionate programmer with expertise in **C*
 ## 🏆 Badges
 
 ### Languages
-![C](https://img.shields.io/badge/C-85.75%25-blue)
-![C++](https://img.shields.io/badge/C++-9.64%25-green)
-![Shell](https://img.shields.io/badge/Shell-0.02%25-yellow)
+![C](https://img.shields.io/badge/C-50%25-blue)
+![C++](https://img.shields.io/badge/C++-30%25-green)
+![Shell](https://img.shields.io/badge/Shell-20%25-yellow)
 
 ### Tools
 ![Makefile](https://img.shields.io/badge/Makefile-1.16%25-lightgrey)
