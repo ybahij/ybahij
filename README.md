@@ -1,4 +1,4 @@
-# Hi, I'm ybahij 👋
+# Hi, I'm youssef bahij 👋
 
 <a href="https://github.com/oakoudad/badge42">
   <img src="https://badge.mediaplus.ma/colorfulwaves/ybahij" alt="ybahij's 42 stats" />
