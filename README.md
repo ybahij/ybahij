@@ -26,19 +26,32 @@ Welcome to my GitHub profile! I'm a passionate programmer with expertise in **C*
 
 ## 🚀 Projects
 
-### 1. [Project 1](https://github.com/ybahij/project1)
-- **Description**: A C-based project that implements a custom memory allocator.
+### 1. [Philosophers (philo)](https://github.com/ybahij/philosophers)
+- **Description**: A simulation of the classic Dining Philosophers problem, implemented in C using threads and mutexes.
 - **Features**:
-  - Efficient memory allocation and deallocation.
-  - Debugging tools for memory leaks.
+  - Multithreading to simulate philosophers as separate threads.
+  - Mutexes to manage shared resources (forks) and prevent deadlocks.
+  - Program arguments to customize the number of philosophers, time to eat, sleep, and die.
+  - Real-time monitoring of philosopher states (thinking, eating, sleeping).
+- **Technologies**: C, Multithreading, Mutexes
+
+### 2. [Minishell](https://github.com/ybahij/minishell)
+- **Description**: A minimalistic shell implementation in C, mimicking basic functionalities of a Unix shell.
+- **Features**:
+  - Command execution (e.g., `ls`, `cd`, `echo`).
+  - Environment variable handling (`$PATH`, `$HOME`).
+  - Redirection and piping (`>`, `<`, `|`).
+  - Signal handling (e.g., `Ctrl+C`, `Ctrl+D`).
 - **Technologies**: C, Makefile
 
-### 2. [Project 2](https://github.com/ybahij/project2)
-- **Description**: A Shell script automation tool for system administration tasks.
+### 3. [3D Game Raycasting](https://github.com/ybahij/cub3d)
+- **Description**: A 3D game using raycasting, inspired by classic games like Wolfenstein 3D.
 - **Features**:
-  - Automates backups, log cleaning, and system updates.
-  - Easy-to-use command-line interface.
-- **Technologies**: Shell, Bash
+  - Real-time 3D rendering using raycasting.
+  - Player movement and collision detection.
+  - Texture mapping for walls and floors.
+  - Interactive gameplay with a map editor.
+- **Technologies**: C, Makefile
 
 ---
 
@@ -63,3 +76,17 @@ Welcome to my GitHub profile! I'm a passionate programmer with expertise in **C*
 ![Makefile](https://img.shields.io/badge/Makefile-1.16%25-lightgrey)
 ![Git](https://img.shields.io/badge/Git-F05032?logo=git&logoColor=white)
 ![Linux](https://img.shields.io/badge/Linux-FCC624?logo=linux&logoColor=black)
+
+---
+
+## 📫 Let's Connect!
+
+- [GitHub](https://github.com/ybahij)
+- [LinkedIn]([https://www.linkedin.com/in/yourprofile](https://www.linkedin.com/in/youssef-bahij-812b73197/))
+- [Email](mailto:youssefbahij2000@gmail.com)
+
+---
+
+<p align="center">
+  <img src="https://komarev.com/ghpvc/?username=ybahij&label=Profile%20Views&color=blue&style=flat" alt="Profile Views" />
+</p>
