@@ -1,7 +1,6 @@
 # Hi, I'm youssef bahij 👋
 
-<a href="https://github.com/oakoudad/badge42">
-<img src="https://badge.mediaplus.ma/greenbinary/ybahij" alt="ybahij's 42 stats" /></a>
+<a href="https://github.com/oakoudad/badge42"><img src="https://badge.mediaplus.ma/greenbinary/ybahij" alt="ybahij's 42 stats" /></a>
 
 Welcome to my GitHub profile! I'm a passionate programmer with expertise in **C**, **C++**, **Shell scripting**, and **Makefile**. I love solving complex problems and building efficient systems.
 
