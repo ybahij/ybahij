@@ -53,11 +53,16 @@ A 3D game engine inspired by Wolfenstein 3D.
 
 ---
 
-## 📊 GitHub Stats
+## 🏆 Achievements & Activity
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=ybahij&show_icons=true&theme=radical&hide_border=true" alt="Youssef's Stats" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=ybahij&layout=compact&theme=radical&hide_border=true" alt="Top Languages" />
+  <a href="https://github.com/ryo-ma/github-profile-trophy">
+    <img src="https://github-profile-trophy.vercel.app/?username=ybahij&theme=radical&no-frame=true&no-bg=true&margin-w=4" alt="ybahij's trophies" />
+  </a>
+</p>
+
+<p align="center">
+  <img src="https://streak-stats.demolab.com?user=ybahij&theme=radical&hide_border=true" alt="GitHub Streak" />
 </p>
 
 ---
