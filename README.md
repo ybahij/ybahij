@@ -56,8 +56,8 @@ A 3D game engine inspired by Wolfenstein 3D.
 ## 📊 GitHub Stats
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=ybahij&show_icons=true&theme=transparent&hide_border=true" alt="Youssef's GitHub stats" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=ybahij&layout=compact&theme=transparent&hide_border=true" alt="Top Languages" />
+  <img src="https://github-readme-stats.vercel.app/api?username=ybahij&show_icons=true&theme=radical&hide_border=true" alt="Youssef's Stats" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=ybahij&layout=compact&theme=radical&hide_border=true" alt="Top Languages" />
 </p>
 
 ---
