@@ -16,7 +16,7 @@ I love solving complex problems—whether it's managing memory manually or build
 | :--- | :--- |
 | **Full Stack** | Next.js 16, React, TypeScript, Tailwind CSS, Prisma |
 | **Systems** | C, C++, Shell Scripting, Makefile, GDB/Valgrind |
-| **Data & Auth**| PostgreSQL, Clerk Auth, CSV Parsing |
+| **Data & Auth**| Clerk Auth, CSV Parsing |
 | **Tools** | Git, Docker, VS Code, Vim, Linux/Unix |
 
 ---
